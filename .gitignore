@@ -10,4 +10,4 @@ build
 cache
 artifacts
 zkp-merkle-airdrop-lib/node_modules
-
+typechain-types
